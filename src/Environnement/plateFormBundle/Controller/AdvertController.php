@@ -1,8 +1,6 @@
 <?php
 
-
-
-namespace Environnement\platFormBundle\Controller;
+namespace Environnement\plateFormBundle\Controller;
 
 use Symfony\Component\HttpFoundation\Response;
 

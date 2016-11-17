@@ -3,5 +3,5 @@ environnementplate_form_homepage:
     defaults: { _controller: EnvironnementplateFormBundle:Default:index }
 
 hello_the_world:
-	path:    /hello-world
-	defaults: { _controller: EnvironnementplateFormBundle:Advert:index }
+    path:    /hello-world
+    defaults: { _controller: EnvironnementplateFormBundle:Advert:index }
