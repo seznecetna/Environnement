@@ -11,7 +11,7 @@ class AdvertController extends Controller
     {
         $content = $this
             ->get('templating')
-            ->render('EnvironnementplateFormBundle:Advert:index.html.twig', array('nom' => 'Jocelyn et Kim my love of life baby'));
+            ->render('EnvironnementplateFormBundle:Advert:index.html.twig', array('nom' => 'Jocelyn Hello'));
              return new Response($content);
     }
 }
